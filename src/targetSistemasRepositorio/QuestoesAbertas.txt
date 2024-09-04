@@ -1,0 +1,33 @@
+3-) 
+	
+	SOMA = 77  
+	K = 12
+
+
+4-)
+	
+	a) 1, 3, 5, 7, ___ próx: 9
+	b) 2, 4, 8, 16, 32, 64, ____ próx: 128
+	c) 0, 1, 4, 9, 16, 25, 36, ____ próx: 49
+	d) 4, 16, 36, 64, ____ próx: 100
+	e) 1, 1, 2, 3, 5, 8, ____ próx: 13
+	f) 2,10, 12, 16, 17, 18, 19, ____ próx: 200
+
+
+5-)
+
+	Digamos que os interruptores são A, B e C
+
+	Eu ligaria os interruptores A e C e depois de muito tempo desligaria o C e corria pra uma das salas.
+
+	Se estiver apagada e quente->Encontrei a lampada do C e pra descobrir as outras duas eu só pre
+	ciso visitar uma das outras salas(estando acesa é a sala do A, apagada entao éa sala do B)
+
+	Se a primeira luz estiver apagada e fria->Encontrei a lampada do B, precisando apenas visitar uma das
+	outras duas salas(estando acesa é a sala do A, apagada entao é a sala do C)
+
+	Se a primeira luz estiver acesa->Achei a lampada do A. Agora só preciso voltar para os interruptores,
+	acender uma das apagadas(digamos que a B) agora visito uma das salas que eu não fui, estando acesa é
+	a lampada B que acabei de ligar, se estiver apagada é a lampada C.
+
+	Acredito que são todas as possibilidades. 	
